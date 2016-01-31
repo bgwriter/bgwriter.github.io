@@ -1,0 +1,63 @@
+p {
+  
+  font-family: "Arial", sans-serif;
+  font-size: 10 px;
+  color: white;
+
+}
+
+#red-name {
+	
+	color: red;
+
+}
+
+#blue-name {
+	
+
+	color: blue;
+}
+
+.fixes {
+	list-style: none;
+	margin-top: 100px;
+}
+
+.fixes-list  {
+	 font-size: 125%;
+}
+
+#super{
+	font-size: 300%;
+}
+.highlighter{
+	color: violet;
+	padding: 5px 70px 5px 70px;
+	background-color: blue;
+}
+
+table {
+	border 1px solid #ff0000;
+}
+
+tr {outline: solid;
+}
+
+th { outline: solid;
+}
+
+#main-header  {margin: auto;
+             width: 200px;}
+
+#secondary-header  {margin-left: auto;
+  margin-right: 1px;
+  width: 200px;
+}
+
+body {
+	background-attachment: fixed;
+background-image: url(sunset.jpeg);
+background-position: center center:
+background-repeat: no-repeat;
+background-size: cover;}
+
